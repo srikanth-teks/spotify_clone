@@ -145,10 +145,10 @@ top: 400px;
     
     float: left;
  }
- #four{
+ #four :hover::shadow{
     
     width: 960px;
-    height: 520px;
+    height: 680px;
     background-color: rgb(22, 22, 22);
     margin-left: 285px;
     margin-top: -520px;
@@ -225,4 +225,85 @@ h5{
     padding-left: 15px;
     color: white;
     padding-bottom:15px ;
+}
+
+#popu{
+    color: white;
+    font-size: 25px;
+    display:flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-left: -885px; 
+}
+
+#glory{
+    width: 170px;
+    height: 240px;
+    background-color:rgb(24, 23, 23);
+    margin-left: -570px;
+    margin-top: 90px;
+    border-radius: 5px;
+    padding-left: 12px;
+    color: white;
+    padding-bottom:15px ;
+}
+#aash{
+    width: 170px;
+    height: 240px;
+    background-color:rgb(24, 23, 23);
+    margin-left: 175px;
+    margin-top:-275px;
+    border-radius: 5px;
+    padding-left: 12px;
+    color: white;
+    padding-bottom:15px ;
+}
+#love{
+    width: 170px;
+    height: 240px;
+    background-color:rgb(24, 23, 23);
+    margin-left: 175px;
+    margin-top:-275px;
+    border-radius: 5px;
+    padding-left: 12px;
+    color: white;
+    padding-bottom:15px ;
+}
+#jo{
+    width: 170px;
+    height: 240px;
+    background-color:rgb(24, 23, 23);
+    margin-left: 175px;
+    margin-top:-275px;
+    border-radius: 5px;
+    padding-left: 12px;
+    color: white;
+    padding-bottom:15px ;
+}
+#mak{
+    width: 170px;
+    height: 240px;
+    background-color:rgb(24, 23, 23);
+    margin-left: 175px;
+    margin-top:-275px;
+    border-radius: 5px;
+    padding-left: 12px;
+    color: white;
+    padding-bottom:15px ;
+}
+#fot{
+    width: 1200px;
+    height: 20px;
+    background-color: rgba(255, 0, 255, 0.34);
+    margin-top: 10px;
+    margin-left: -490px;
+    padding: 20px;
+}
+
+#las{
+    width: 150px;
+    height: 50px;
+    font:22px;
+    float: right;
+    margin-top: -30px;
 }
