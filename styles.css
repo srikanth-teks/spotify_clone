@@ -145,7 +145,7 @@ top: 400px;
     
     float: left;
  }
- #four :hover::shadow{
+ #four{
     
     width: 960px;
     height: 680px;
@@ -154,6 +154,7 @@ top: 400px;
     margin-top: -520px;
     border-radius: 10px;
     padding-top:10px ;
+    
     
  }
  #pop{
